@@ -6,6 +6,7 @@ toolchain go1.24.1
 
 require (
 	github.com/Shopify/sarama v1.38.1
+	github.com/nats-io/nats.go v1.42.0
 	github.com/libp2p/go-reuseport v0.4.0
 	github.com/oschwald/geoip2-golang v1.13.0
 	github.com/prometheus/client_golang v1.23.2
